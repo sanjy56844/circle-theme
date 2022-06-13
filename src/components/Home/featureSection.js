@@ -7,28 +7,28 @@ const FeatureSection = () => {
       <Fade bottom cascade>
         <div className="w-full flex flex-row justify-between mt-10 xxs:flex-col xs:flex-col sm:flex-row">
           <div className="rounded-xl w-full h-52 flex flex-col content-center justify-center align-middle text-center m-5 bg-gradient-to-r from-lightblack to-lightblack hover:from-purple hover:to-pink transition duration-500 ease-in-out">
-            <h1 className="text-white text-5xl">2.4M</h1>
-            <h3 className="text-white">Days turn around</h3>
+            <h1 className="text-white text-5xl">2017</h1>
+            <h3 className="text-white">Daikin Refrigeration Establishment</h3>
           </div>
           <div className="rounded-xl w-full h-52 flex flex-col content-center justify-center align-middle text-center m-5 bg-gradient-to-r from-lightblack to-lightblack hover:from-purple hover:to-pink transition duration-500 ease-in-out">
-            <h1 className="text-white text-5xl">7M</h1>
-            <h3 className="text-white">Days turn around</h3>
+            <h1 className="text-white text-5xl">2000+</h1>
+            <h3 className="text-white">Total Cold Room Sold</h3>
           </div>
           <div className="rounded-xl w-full h-52 flex flex-col content-center justify-center align-middle text-center m-5 bg-gradient-to-r from-lightblack to-lightblack hover:from-purple hover:to-pink transition duration-500 ease-in-out">
-            <h1 className="text-white text-5xl">7.4%</h1>
-            <h3 className="text-white">Days turn around</h3>
+            <h1 className="text-white text-5xl">100%</h1>
+            <h3 className="text-white">Customer Satisfaction</h3>
           </div>
           <div className="rounded-xl w-full h-52 flex flex-col content-center justify-center align-middle text-center m-5 bg-gradient-to-r from-lightblack to-lightblack hover:from-purple hover:to-pink transition duration-500 ease-in-out">
-            <h1 className="text-white text-5xl">49K</h1>
-            <h3 className="text-white">Days turn around</h3>
+            <h1 className="text-white text-5xl">500+</h1>
+            <h3 className="text-white">Total J&E Hall Compressor Sold</h3>
           </div>
         </div>
       </Fade>
       <Fade bottom cascade>
         <div className="mt-10 px-8">
           <h1 className="text-white text-7xl font-bold xxs:text-2xl xs:text-2xl sm:text-3xl lg:text-5xl xl:text-7xl">
-            From rough design files, to <br></br>
-            powerful products
+            Daikin delievers all product range from, <br></br>
+            Cold Rooms to Deep Frezzers.
           </h1>
           <h2 className="text-white text-sm mt-5 opacity-50">
             Daikin Refrigeration 's standard dummy text
